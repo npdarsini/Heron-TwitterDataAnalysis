@@ -24,11 +24,12 @@ public class HashTagCount extends BaseRichBolt
     private Map<String, Long> counter;
     private long lastClearTime;
     private long lastLogTime;
-    private long clearIntervalSec = 30000;
-    private long logIntervalSec = 300;
+    private long clearIntervalSec = 3;
+    private long logIntervalSec = 3;
 
+    private int i = 0;
     OutputCollector outputCollector;
-   // private static final Logger logger = LoggerFactory.getLogger(HashTagCount.class);
+    // private static final Logger logger = LoggerFactory.getLogger(HashTagCount.class);
 
     @Override
     public void prepare(Map map, TopologyContext topologyContext,
@@ -46,27 +47,29 @@ public class HashTagCount extends BaseRichBolt
         count++;
         counts.put(word, count);
 
-        outputCollector.emit(new Values(word, count));
-        System.out.println("Result is : " + word + "[ " + count + " ]");
 
-        long now = System.currentTimeMillis();
-        long logPeriodSec = (now - lastLogTime) / 1000;
-        if (logPeriodSec > logIntervalSec) {
+        outputCollector.emit(new Values(word, count));
+        // System.out.println("Result is : " + word + "[ " + count + " ]");
+        i++;
+
+
+        if (i > 60) {
 //            logger.info("\n\n");
 //            logger.info("Word count: "+counter.size());
+            i = 0;
 
-            publishTopList();
-            lastLogTime = now;
+            SortedMap Tags60 = publishTopList();
 
+            for (int j = 0; j < 10; j++) {
+                System.out.println("Top Words are: " + Tags60.remove(Tags60.firstKey()));
+
+            }
         }
     }
 
-    @Override
-    public void declareOutputFields(OutputFieldsDeclarer declarer) {
-        declarer.declare(new Fields("hashtag", "count"));
-    }
 
-    void publishTopList() {
+    SortedMap publishTopList()
+        {
         // calculate top list:
         SortedMap<Long, String> top = new TreeMap<Long, String>();
         for (Map.Entry<String, Long> entry : counter.entrySet()) {
@@ -74,22 +77,22 @@ public class HashTagCount extends BaseRichBolt
             String word = entry.getKey();
 
             top.put(count, word);
-            if (top.size() > topListSize) {
-                top.remove(top.firstKey());
+
+
             }
-        }
+       //        // Output top list:
+//        for (Map.Entry<Long, String> entry : top.entrySet()) {
+//            System.out.println("Priya here Success");
+//            System.out.println("Top 10 Words are: "+new StringBuilder("top - ").append(entry.getValue()).append('|').append(entry.getKey()).toString());
+//        }
+            return top;
 
-        // Output top list:
-        for (Map.Entry<Long, String> entry : top.entrySet()) {
-            System.out.println("Top 10 Words are: "+new StringBuilder("top - ").append(entry.getValue()).append('|').append(entry.getKey()).toString());
-        }
+    }
 
-        // Clear top list
-        long now = System.currentTimeMillis();
-        if (now - lastClearTime > clearIntervalSec * 1000) {
-            counter.clear();
-            lastClearTime = now;
-        }
+    @Override
+
+    public void declareOutputFields(OutputFieldsDeclarer declarer) {
+        declarer.declare(new Fields("hashtag", "count"));
     }
 
 
