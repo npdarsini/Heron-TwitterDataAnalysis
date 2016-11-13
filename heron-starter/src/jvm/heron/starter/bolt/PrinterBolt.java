@@ -26,7 +26,21 @@ public class PrinterBolt extends BaseBasicBolt {
     String TweetTags = "/home/npdarsini/Desktop/Entity/TweetDeck.txt";
     String Windows = "/home/npdarsini/Desktop/Entity/WindowsTags.txt";
     String twittbot = "/home/npdarsini/Desktop/Entity/twittbot.txt";
+    String FacebookTags = "/home/npdarsini/Desktop/Entity/Facebook.txt";
+    String iPad = "/home/npdarsini/Desktop/Entity/iPad.txt";
+    String Blackberry = "/home/npdarsini/Desktop/Entity/Blackberry.txt";
     String others = "/home/npdarsini/Desktop/Entity/others.txt";
+
+//      String IPhoneTags= "Entity/IphoneTags.txt";
+//      String AndroidTags = "Entity/AndroidTags.txt";
+//      String WebTags ="Entity/WebTags.txt";
+//      String TweetTags = "Entity/TweetDeck.txt";
+//      String Windows = "Entity/WindowsTags.txt";
+//      String twittbot = "Entity/twittbot.txt";
+//      String others = "Entity/others.txt";
+//      String FacebookTags = "Entity/Facebook.txt";
+//      String iPad = "Entity/iPad.txt";
+//      String Blackberry = "Entity/Blackberry.txt";
 
    if(tuple.getString(0).contains("iPhone"))
     {
@@ -127,6 +141,52 @@ public class PrinterBolt extends BaseBasicBolt {
       System.out.println("Results:" + tuple.getString(0));
     }
 
+   else if(tuple.getString(0).contains("Facebook"))
+   {
+       PrintWriter out = null;
+       try {
+           out = new PrintWriter(new BufferedWriter(new FileWriter(FacebookTags, true)));
+           out.println(tuple.getString(0));
+       }catch (IOException e) {
+           System.err.println(e);
+       } finally{
+           if(out != null){
+               out.close();
+           }
+       }
+       System.out.println("Results:" + tuple.getString(0));
+   }
+
+   else if(tuple.getString(0).contains("iPad"))
+   {
+       PrintWriter out = null;
+       try {
+           out = new PrintWriter(new BufferedWriter(new FileWriter(iPad, true)));
+           out.println(tuple.getString(0));
+       }catch (IOException e) {
+           System.err.println(e);
+       } finally{
+           if(out != null){
+               out.close();
+           }
+       }
+       System.out.println("Results:" + tuple.getString(0));
+   }
+   else if(tuple.getString(0).contains("Blackberry"))
+   {
+       PrintWriter out = null;
+       try {
+           out = new PrintWriter(new BufferedWriter(new FileWriter(Blackberry, true)));
+           out.println(tuple.getString(0));
+       }catch (IOException e) {
+           System.err.println(e);
+       } finally{
+           if(out != null){
+               out.close();
+           }
+       }
+       System.out.println("Results:" + tuple.getString(0));
+   }
     else
    {
      PrintWriter out = null;
