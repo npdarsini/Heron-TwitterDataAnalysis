@@ -34,6 +34,5 @@
     <orderEntry type="library" name="Maven: com.google.guava:guava:20.0" level="project" />
     <orderEntry type="library" name="Maven: org.twitter4j:twitter4j-core:4.0.5" level="project" />
     <orderEntry type="library" name="Maven: org.twitter4j:twitter4j-stream:4.0.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: storm.starter:storm-hack:0.0.1-SNAPSHOT" level="project" />
   </component>
 </module>

@@ -106,12 +106,12 @@
       <artifactId>twitter4j-stream</artifactId>
       <version>4.0.5</version>
     </dependency>
-    <dependency>
-      <groupId>storm.starter</groupId>
-      <artifactId>storm-hack</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-      <scope>test</scope>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>storm.starter</groupId>-->
+      <!--<artifactId>storm-hack</artifactId>-->
+      <!--<version>0.0.1-SNAPSHOT</version>-->
+      <!--<scope>test</scope>-->
+    <!--</dependency>-->
   </dependencies>
 
   <build>

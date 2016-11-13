@@ -97,6 +97,7 @@ public class EntitySpout extends BaseRichSpout
         } else {
             //_collector.emit(new Values(ret.getText()));
              _collector.emit(new Values(ret.getSource()));
+//            _collector.emit(new Values(ret.getPlace()));
         }
     }
 
