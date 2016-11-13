@@ -42,51 +42,29 @@ public class HashTagCount extends BaseRichBolt
     @Override
     public void execute(Tuple tuple) {
         String word = tuple.getString(0);
+        SortedMap top = new TreeMap<Long, String>();
         Integer count = counts.get(word);
         if (count == null) count = 0;
         count++;
         counts.put(word, count);
 
+        top.put(count, word);
 
-        outputCollector.emit(new Values(word, count));
         // System.out.println("Result is : " + word + "[ " + count + " ]");
         i++;
 
-
-        if (i > 60) {
-//            logger.info("\n\n");
-//            logger.info("Word count: "+counter.size());
-            i = 0;
-
-            SortedMap Tags60 = publishTopList();
-
-            for (int j = 0; j < 10; j++) {
-                System.out.println("Top Words are: " + Tags60.remove(Tags60.firstKey()));
-
-            }
-        }
-    }
-
-
-    SortedMap publishTopList()
+        if(i > 60)
         {
-        // calculate top list:
-        SortedMap<Long, String> top = new TreeMap<Long, String>();
-        for (Map.Entry<String, Long> entry : counter.entrySet()) {
-            long count = entry.getValue();
-            String word = entry.getKey();
+            i =0;
+           for (int j = 0; j < 10; j++) {
+               System.out.println("Top Words are: " + top.remove(top.firstKey()));
 
-            top.put(count, word);
+           }
+        }
 
 
-            }
-       //        // Output top list:
-//        for (Map.Entry<Long, String> entry : top.entrySet()) {
-//            System.out.println("Priya here Success");
-//            System.out.println("Top 10 Words are: "+new StringBuilder("top - ").append(entry.getValue()).append('|').append(entry.getKey()).toString());
-//        }
-            return top;
 
+        outputCollector.emit(new Values(word, count));
     }
 
     @Override

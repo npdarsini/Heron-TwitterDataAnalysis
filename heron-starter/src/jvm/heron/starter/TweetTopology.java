@@ -12,10 +12,8 @@ import backtype.storm.tuple.Fields;
 import backtype.storm.tuple.Tuple;
 import backtype.storm.tuple.Values;
 import backtype.storm.utils.Utils;
-import heron.starter.bolt.HashTagBolt;
-import heron.starter.bolt.HashTagCount;
-import heron.starter.bolt.SentenceSplitBolt;
-import heron.starter.spout.TwitterSampleSpout;
+import heron.starter.bolt.PrinterBolt;
+import heron.starter.spout.EntitySpout;
 
 import java.util.Map;
 
@@ -59,20 +57,26 @@ public class TweetTopology {
       String totalRankerId = "finalRanker";
 
 
-    builder.setSpout("word", 
-           new TwitterSampleSpout("nk7lCf9Z2qJlVhkN8QGBOkdTF",
-                 "1nuJjD1hGIfAfnLZ5C2PNO4Sisg9OpGOcDG0ZMehpJIbHjzIps",
-                 "340731816-VqiIbfJHsJzB698A3FpGnH2Eqv2vqS0NJGOGGenI",
-                 "RHhDJiynBr45EUUrAjOc5j70eFGFjsaMXr7GlvNVQsyEF"), 1);
+//    builder.setSpout("word",
+//           new TwitterSampleSpout("nk7lCf9Z2qJlVhkN8QGBOkdTF",
+//                 "1nuJjD1hGIfAfnLZ5C2PNO4Sisg9OpGOcDG0ZMehpJIbHjzIps",
+//                 "340731816-VqiIbfJHsJzB698A3FpGnH2Eqv2vqS0NJGOGGenI",
+//                 "RHhDJiynBr45EUUrAjOc5j70eFGFjsaMXr7GlvNVQsyEF"), 1);
+//
+//    builder.setBolt("stdout", new SentenceSplitBolt(), 1).shuffleGrouping("word");
+      builder.setSpout("Entity", new EntitySpout("nk7lCf9Z2qJlVhkN8QGBOkdTF",
+              "1nuJjD1hGIfAfnLZ5C2PNO4Sisg9OpGOcDG0ZMehpJIbHjzIps",
+              "340731816-VqiIbfJHsJzB698A3FpGnH2Eqv2vqS0NJGOGGenI",
+              "RHhDJiynBr45EUUrAjOc5j70eFGFjsaMXr7GlvNVQsyEF"), 1);
+      builder.setBolt("EntityPrint", new PrinterBolt(),2).shuffleGrouping("Entity");
 
-    builder.setBolt("stdout", new SentenceSplitBolt(), 1).shuffleGrouping("word");
 
-      builder.setBolt(HashTag, new HashTagBolt(),1).shuffleGrouping("stdout");
-      //builder.setBolt(HashTagCounter, new HashTagCount(), 3).shuffleGrouping(HashTag);
-
-      builder.setBolt(HashTagCounter,new HashTagCount(),8).fieldsGrouping(HashTag, new Fields("hashtag"));
-
-      //builder.setBolt("Printer", new PrinterBolt(), 2).shuffleGrouping(HashTagCounter);
+//      builder.setBolt(HashTag, new HashTagBolt(),1).shuffleGrouping("stdout");
+//      //builder.setBolt(HashTagCounter, new HashTagCount(), 3).shuffleGrouping(HashTag);
+//
+//      builder.setBolt(HashTagCounter,new HashTagCount(),8).fieldsGrouping(HashTag, new Fields("hashtag"));
+//
+//      //builder.setBolt("Printer", new PrinterBolt(), 2).shuffleGrouping(HashTagCounter);
 
     Config conf = new Config();
     conf.setDebug(true);

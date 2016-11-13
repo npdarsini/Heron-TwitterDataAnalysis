@@ -15,8 +15,13 @@ public class PrinterBolt extends BaseBasicBolt {
     OutputCollector outputCollector;
 
   public void execute(Tuple tuple, BasicOutputCollector basicOutputCollector) {
-    System.out.println("Results:" + tuple.getString(0));
-    System.out.println("[ "+basicOutputCollector.toString()+ " ]");
+
+    if(tuple.getString(0).contains("iPhone"))
+    {
+      System.out.println("Results:" + tuple.getString(0));
+    }
+
+    //System.out.println("[ "+basicOutputCollector.toString()+ " ]");
 
      }
 

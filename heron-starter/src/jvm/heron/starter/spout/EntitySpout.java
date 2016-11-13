@@ -1,5 +1,9 @@
 package heron.starter.spout;
 
+/**
+ * Created by npdarsini on 11/12/16.
+ */
+
 import backtype.storm.Config;
 import backtype.storm.spout.SpoutOutputCollector;
 import backtype.storm.task.TopologyContext;
@@ -14,7 +18,7 @@ import twitter4j.conf.ConfigurationBuilder;
 import java.util.Map;
 import java.util.concurrent.LinkedBlockingQueue;
 
-public class TwitterSampleSpout extends BaseRichSpout 
+public class EntitySpout extends BaseRichSpout
 {
     SpoutOutputCollector _collector;
     LinkedBlockingQueue<Status> queue = null;
@@ -23,19 +27,19 @@ public class TwitterSampleSpout extends BaseRichSpout
     String _custsecret;
     String _accesstoken;
     String _accesssecret;
-    
-    public TwitterSampleSpout(String key, String secret) {
+
+    public EntitySpout(String key, String secret) {
         _custkey = key;
         _custsecret = secret;
     }
 
-    public TwitterSampleSpout(String key, String secret, String token, String tokensecret) {
+    public EntitySpout(String key, String secret, String token, String tokensecret) {
         _custkey = key;
         _custsecret = secret;
         _accesstoken = token;
         _accesssecret = tokensecret;
     }
-    
+
     @Override
     public void open(Map conf, TopologyContext context, SpoutOutputCollector collector) {
         queue = new LinkedBlockingQueue<Status>(1000);
@@ -66,19 +70,19 @@ public class TwitterSampleSpout extends BaseRichSpout
 
             @Override
             public void onException(Exception e) {
-              e.printStackTrace();
+                e.printStackTrace();
             }
         };
 
-        ConfigurationBuilder config = 
-            new ConfigurationBuilder()
-                 .setOAuthConsumerKey(_custkey)
-                 .setOAuthConsumerSecret(_custsecret)
-                 .setOAuthAccessToken(_accesstoken)
-                 .setOAuthAccessTokenSecret(_accesssecret);
+        ConfigurationBuilder config =
+                new ConfigurationBuilder()
+                        .setOAuthConsumerKey(_custkey)
+                        .setOAuthConsumerSecret(_custsecret)
+                        .setOAuthAccessToken(_accesstoken)
+                        .setOAuthAccessTokenSecret(_accesssecret);
 
-        TwitterStreamFactory fact = 
-            new TwitterStreamFactory(config.build());
+        TwitterStreamFactory fact =
+                new TwitterStreamFactory(config.build());
 
         _twitterStream = fact.getInstance();
         _twitterStream.addListener(listener);
@@ -91,8 +95,8 @@ public class TwitterSampleSpout extends BaseRichSpout
         if(ret==null) {
             Utils.sleep(50);
         } else {
-            _collector.emit(new Values(ret.getText()));
-           // _collector.emit(new Values(ret.getSource()))
+            //_collector.emit(new Values(ret.getText()));
+             _collector.emit(new Values(ret.getSource()));
         }
     }
 
@@ -106,7 +110,7 @@ public class TwitterSampleSpout extends BaseRichSpout
         Config ret = new Config();
         ret.setMaxTaskParallelism(1);
         return ret;
-    }    
+    }
 
     @Override
     public void ack(Object id) {
