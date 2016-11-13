@@ -13,6 +13,7 @@ import backtype.storm.tuple.Tuple;
 import backtype.storm.tuple.Values;
 import backtype.storm.utils.Utils;
 import heron.starter.bolt.HashTagBolt;
+import heron.starter.bolt.HashTagCount;
 import heron.starter.bolt.PrinterBolt;
 import heron.starter.bolt.SentenceSplitBolt;
 import heron.starter.spout.EntitySpout;
@@ -79,7 +80,7 @@ public class TweetTopology {
 
       //builder.setBolt(HashTagCounter, new HashTagCount(), 3).shuffleGrouping(HashTag);
 
-     // builder.setBolt(HashTagCounter,new HashTagCount(),8).fieldsGrouping(HashTag, new Fields("hashtag"));
+      builder.setBolt(HashTagCounter,new HashTagCount(),8).fieldsGrouping(HashTag, new Fields("hashtag"));
 
      //builder.setBolt("Printer", new PrinterBolt(), 2).shuffleGrouping(HashTagCounter);
 

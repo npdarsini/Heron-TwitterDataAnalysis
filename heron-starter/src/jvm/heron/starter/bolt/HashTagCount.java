@@ -8,6 +8,10 @@ import backtype.storm.tuple.Fields;
 import backtype.storm.tuple.Tuple;
 import backtype.storm.tuple.Values;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.SortedMap;
@@ -30,7 +34,8 @@ public class HashTagCount extends BaseRichBolt
     private int i = 0;
     OutputCollector outputCollector;
     // private static final Logger logger = LoggerFactory.getLogger(HashTagCount.class);
-
+    //String HashTags = "/home/npdarsini/Desktop/Entity/HashTags.txt";
+    String HashTags = "Entity/HashTags.txt";
     @Override
     public void prepare(Map map, TopologyContext topologyContext,
                         OutputCollector outputCollector) {
@@ -48,23 +53,26 @@ public class HashTagCount extends BaseRichBolt
         count++;
         counts.put(word, count);
 
-        top.put(count, word);
+        String str = "(" + word + ", " + count + ")";
+        if (str != null) {
+            PrintWriter out = null;
+            try {
+                out = new PrintWriter(new BufferedWriter(new FileWriter(HashTags, true)));
+                out.println(str);
+            } catch (IOException e) {
+                System.err.println(e);
+            } finally {
+                if (out != null) {
+                    out.close();
+                }
+            }
 
-        // System.out.println("Result is : " + word + "[ " + count + " ]");
-        i++;
 
-        if(i > 60)
-        {
-            i =0;
-           for (int j = 0; j < 10; j++) {
-               System.out.println("Top Words are: " + top.remove(top.firstKey()));
+            System.out.println(str);
 
-           }
+            outputCollector.emit(new Values(word, count));
+
         }
-
-
-
-        outputCollector.emit(new Values(word, count));
     }
 
     @Override

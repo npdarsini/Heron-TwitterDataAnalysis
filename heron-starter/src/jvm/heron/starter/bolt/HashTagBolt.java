@@ -13,10 +13,6 @@ import backtype.storm.tuple.Fields;
 import backtype.storm.tuple.Tuple;
 import backtype.storm.tuple.Values;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.Map;
 
 public class HashTagBolt extends BaseRichBolt {
@@ -34,24 +30,25 @@ public class HashTagBolt extends BaseRichBolt {
         String word = tuple.getString(0);
         String HashTags = "/home/npdarsini/Desktop/Entity/HashTags.txt";
        // String HashTags = "Entity/HashTags.txt";
-        if(word.startsWith("#")) {
-            PrintWriter out = null;
-            try {
-                out = new PrintWriter(new BufferedWriter(new FileWriter(HashTags, true)));
-                out.println(word.substring(1));
-            }catch (IOException e) {
-                System.err.println(e);
-            } finally{
-                if(out != null){
-                    out.close();
-                }
-            }
+//        if(word.startsWith("#")) {
+//            PrintWriter out = null;
+//            try {
+//                out = new PrintWriter(new BufferedWriter(new FileWriter(HashTags, true)));
+//                out.println(word.substring(1));
+//            }catch (IOException e) {
+//                System.err.println(e);
+//            } finally{
+//                if(out != null){
+//                    out.close();
+//                }
+//            }
             System.out.println("Results:" + tuple.getString(0));
             // only emit hashtags, and emit them without the # character
-            outputCollector.emit(new Values(word.substring(1, word.length())));
-            System.out.println(word);
+            //outputCollector.emit(new Values(word.substring(1, word.length()))); V
+        outputCollector.emit(new Values(word));
+           // System.out.println(word);
         }
-    }
+
 
     @Override
     public void declareOutputFields(OutputFieldsDeclarer declarer) {

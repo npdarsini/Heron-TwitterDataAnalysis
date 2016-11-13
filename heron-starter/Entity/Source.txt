@@ -1,0 +1,1028 @@
+{Android=1}
+{iPhone=1}
+{Others=1, Android=1}
+{iPhone=1, Android=1}
+{iPhone=1, Others=1, Android=1}
+{iPhone=1, Android=2}
+{iPhone=2, Others=1, Android=1}
+{iPhone=1, Android=3}
+{iPhone=3, Others=1, Android=1}
+{iPhone=1, Android=4}
+{iPhone=3, Others=1, Web=1, Android=1}
+{iPhone=2, Android=4}
+{iPhone=3, Others=1, Web=1, Android=2}
+{iPhone=4, Others=1, Web=1, Android=2}
+{iPhone=2, Web=1, Android=4}
+{iPhone=3, Web=1, Android=4}
+{iPhone=5, Others=1, Web=1, Android=2}
+{iPhone=3, Web=2, Android=4}
+{iPhone=6, Others=1, Web=1, Android=2}
+{iPhone=6, Others=1, Web=1, Facebook=1, Android=2}
+{iPhone=4, Web=2, Android=4}
+{iPhone=6, Others=1, twittbot=1, Web=1, Facebook=1, Android=2}
+{iPhone=7, Others=1, twittbot=1, Web=1, Facebook=1, Android=2}
+{iPhone=8, Others=1, twittbot=1, Web=1, Facebook=1, Android=2}
+{iPhone=9, Others=1, twittbot=1, Web=1, Facebook=1, Android=2}
+{iPhone=4, Web=2, Android=5}
+{iPhone=5, Web=2, Android=5}
+{iPhone=5, Others=1, Web=2, Android=5}
+{iPhone=5, Others=2, Web=2, Android=5}
+{iPhone=5, Others=2, Web=2, Android=6}
+{iPhone=10, Others=1, twittbot=1, Web=1, Facebook=1, Android=2}
+{iPhone=10, Others=1, twittbot=1, Web=1, Facebook=2, Android=2}
+{iPhone=11, Others=1, twittbot=1, Web=1, Facebook=2, Android=2}
+{iPhone=12, Others=1, twittbot=1, Web=1, Facebook=2, Android=2}
+{iPhone=5, Others=2, Web=2, Android=7}
+{iPhone=6, Others=2, Web=2, Android=7}
+{iPhone=6, Others=2, twittbot=1, Web=2, Android=7}
+{iPhone=7, Others=2, twittbot=1, Web=2, Android=7}
+{iPhone=13, Others=1, twittbot=1, Web=1, Facebook=2, Android=2}
+{iPhone=13, Others=1, twittbot=1, Web=1, Facebook=2, Android=3}
+{iPhone=8, Others=2, twittbot=1, Web=2, Android=7}
+{iPhone=13, Others=2, twittbot=1, Web=1, Facebook=2, Android=3}
+{iPhone=9, Others=2, twittbot=1, Web=2, Android=7}
+{iPhone=10, Others=2, twittbot=1, Web=2, Android=7}
+{iPhone=10, Others=3, twittbot=1, Web=2, Android=7}
+{iPhone=11, Others=3, twittbot=1, Web=2, Android=7}
+{iPhone=11, Others=3, twittbot=1, Web=2, Android=8}
+{iPhone=12, Others=3, twittbot=1, Web=2, Android=8}
+{iPhone=14, Others=2, twittbot=1, Web=1, Facebook=2, Android=3}
+{iPhone=15, Others=2, twittbot=1, Web=1, Facebook=2, Android=3}
+{iPhone=15, Others=2, twittbot=2, Web=1, Facebook=2, Android=3}
+{iPhone=16, Others=2, twittbot=2, Web=1, Facebook=2, Android=3}
+{iPhone=16, Others=2, twittbot=2, Web=1, Facebook=2, Android=4}
+{iPhone=16, Others=2, twittbot=2, Web=1, Facebook=2, Android=5}
+{iPhone=12, Others=3, twittbot=1, Web=2, Facebook=1, Android=8}
+{iPhone=12, Others=3, twittbot=1, Web=2, Facebook=1, Android=9}
+{iPhone=16, Others=2, twittbot=2, Web=1, Facebook=2, Android=6}
+{iPhone=16, Others=2, twittbot=2, Web=1, Facebook=2, Android=7}
+{iPhone=16, Others=3, twittbot=2, Web=1, Facebook=2, Android=7}
+{iPhone=16, Others=3, twittbot=2, Web=2, Facebook=2, Android=7}
+{iPhone=17, Others=3, twittbot=2, Web=2, Facebook=2, Android=7}
+{iPhone=17, Others=3, twittbot=2, Web=2, Facebook=2, Android=8}
+{iPhone=13, Others=3, twittbot=1, Web=2, Facebook=1, Android=9}
+{iPhone=13, Others=4, twittbot=1, Web=2, Facebook=1, Android=9}
+{iPhone=13, Others=4, twittbot=1, Web=2, Facebook=1, Android=10}
+{iPhone=14, Others=4, twittbot=1, Web=2, Facebook=1, Android=10}
+{iPhone=14, Others=4, twittbot=1, Web=2, Facebook=1, Android=11}
+{iPhone=17, Others=3, twittbot=2, Web=2, Facebook=2, Android=9}
+{iPhone=17, Others=3, twittbot=2, Web=2, TweetDeck=1, Facebook=2, Android=9}
+{iPhone=17, Others=3, twittbot=2, Web=2, TweetDeck=1, Facebook=2, Android=10}
+{iPhone=18, Others=3, twittbot=2, Web=2, TweetDeck=1, Facebook=2, Android=10}
+{iPhone=18, Others=3, twittbot=2, Web=2, TweetDeck=1, Facebook=2, Android=11}
+{iPhone=14, Others=4, twittbot=1, Web=2, Facebook=1, Android=12}
+{iPhone=14, Others=4, twittbot=1, Web=2, TweetDeck=1, Facebook=1, Android=12}
+{iPhone=14, Others=4, twittbot=1, Web=2, TweetDeck=1, Facebook=1, Android=13}
+{iPhone=14, Others=4, twittbot=1, Web=2, TweetDeck=1, Facebook=1, Android=14}
+{iPhone=15, Others=4, twittbot=1, Web=2, TweetDeck=1, Facebook=1, Android=14}
+{iPhone=15, Others=5, twittbot=1, Web=2, TweetDeck=1, Facebook=1, Android=14}
+{iPhone=18, Others=3, twittbot=2, Web=2, TweetDeck=1, Facebook=2, Android=12}
+{iPhone=18, Others=3, twittbot=2, Web=2, TweetDeck=2, Facebook=2, Android=12}
+{iPhone=16, Others=5, twittbot=1, Web=2, TweetDeck=1, Facebook=1, Android=14}
+{iPhone=17, Others=5, twittbot=1, Web=2, TweetDeck=1, Facebook=1, Android=14}
+{iPhone=18, Others=3, twittbot=2, Web=2, TweetDeck=2, iPad=1, Facebook=2, Android=12}
+{iPhone=17, Others=5, twittbot=1, Web=2, TweetDeck=1, Facebook=1, Android=15}
+{iPhone=18, Others=3, twittbot=2, Web=3, TweetDeck=2, iPad=1, Facebook=2, Android=12}
+{iPhone=18, Others=5, twittbot=1, Web=2, TweetDeck=1, Facebook=1, Android=15}
+{iPhone=18, Others=3, twittbot=2, Web=4, TweetDeck=2, iPad=1, Facebook=2, Android=12}
+{iPhone=18, Others=5, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=15}
+{iPhone=18, Others=3, twittbot=2, Web=4, TweetDeck=2, iPad=1, Facebook=2, Android=13}
+{iPhone=19, Others=5, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=15}
+{iPhone=19, Others=3, twittbot=2, Web=4, TweetDeck=2, iPad=1, Facebook=2, Android=13}
+{iPhone=20, Others=5, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=15}
+{iPhone=21, Others=5, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=15}
+{iPhone=19, Others=3, twittbot=2, Web=4, TweetDeck=2, iPad=1, Facebook=2, Android=14}
+{iPhone=20, Others=3, twittbot=2, Web=4, TweetDeck=2, iPad=1, Facebook=2, Android=14}
+{iPhone=22, Others=5, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=15}
+{iPhone=20, Others=3, twittbot=2, Web=5, TweetDeck=2, iPad=1, Facebook=2, Android=14}
+{iPhone=22, Others=6, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=15}
+{iPhone=20, Others=3, twittbot=2, Web=5, TweetDeck=2, iPad=1, Facebook=2, Android=15}
+{iPhone=21, Others=3, twittbot=2, Web=5, TweetDeck=2, iPad=1, Facebook=2, Android=15}
+{iPhone=21, Others=3, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=2, Android=15}
+{iPhone=21, Others=3, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=2, Android=16}
+{iPhone=22, Others=3, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=2, Android=16}
+{iPhone=22, Others=3, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=2, Android=17}
+{iPhone=22, Others=6, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=16}
+{iPhone=22, Others=6, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=17}
+{iPhone=23, Others=6, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=17}
+{iPhone=23, Others=6, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=18}
+{iPhone=24, Others=6, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=18}
+{iPhone=24, Others=6, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=1, Android=19}
+{iPhone=23, Others=3, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=2, Android=17}
+{iPhone=23, Others=4, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=2, Android=17}
+{iPhone=23, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=2, Android=17}
+{iPhone=23, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=17}
+{iPhone=24, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=17}
+{iPhone=24, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=18}
+{iPhone=25, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=18}
+{iPhone=26, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=18}
+{iPhone=27, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=18}
+{iPhone=24, Others=6, twittbot=1, Web=2, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=24, Others=6, twittbot=1, Web=3, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=25, Others=6, twittbot=1, Web=3, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=25, Others=7, twittbot=1, Web=3, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=25, Others=7, twittbot=1, Web=4, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=26, Others=7, twittbot=1, Web=4, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=27, Others=7, twittbot=1, Web=4, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=27, Others=7, twittbot=1, Web=5, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=28, Others=7, twittbot=1, Web=5, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=29, Others=7, twittbot=1, Web=5, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=29, Others=8, twittbot=1, Web=5, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=28, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=18}
+{iPhone=29, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=18}
+{iPhone=29, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=19}
+{iPhone=29, Others=8, twittbot=1, Web=6, TweetDeck=1, iPad=1, Facebook=2, Android=19}
+{iPhone=30, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=19}
+{iPhone=31, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=19}
+{iPhone=29, Others=8, twittbot=1, Web=6, TweetDeck=1, iPad=1, Facebook=2, Android=20}
+{iPhone=29, Others=8, twittbot=1, Web=6, TweetDeck=1, iPad=1, Facebook=2, Android=21}
+{iPhone=31, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=20}
+{iPhone=32, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=20}
+{iPhone=29, Others=8, twittbot=1, Web=6, TweetDeck=1, iPad=1, Facebook=2, Android=22}
+{iPhone=29, Others=8, twittbot=1, Web=6, TweetDeck=1, iPad=2, Facebook=2, Android=22}
+{iPhone=32, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=1, Facebook=3, Android=21}
+{iPhone=29, Others=9, twittbot=1, Web=6, TweetDeck=1, iPad=2, Facebook=2, Android=22}
+{iPhone=32, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=2, Facebook=3, Android=21}
+{iPhone=29, Others=9, twittbot=1, Web=6, TweetDeck=1, iPad=2, Facebook=2, Android=23}
+{iPhone=29, Others=9, twittbot=1, Web=6, TweetDeck=1, iPad=2, Facebook=2, Android=24}
+{iPhone=29, Others=9, twittbot=1, Web=6, TweetDeck=2, iPad=2, Facebook=2, Android=24}
+{iPhone=30, Others=9, twittbot=1, Web=6, TweetDeck=2, iPad=2, Facebook=2, Android=24}
+{iPhone=30, Others=9, twittbot=1, Web=6, TweetDeck=2, iPad=2, Facebook=2, Android=25}
+{iPhone=33, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=2, Facebook=3, Android=21}
+{iPhone=34, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=2, Facebook=3, Android=21}
+{iPhone=35, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=2, Facebook=3, Android=21}
+{iPhone=36, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=2, Facebook=3, Android=21}
+{iPhone=36, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=2, Facebook=3, Android=22}
+{iPhone=30, Others=10, twittbot=1, Web=6, TweetDeck=2, iPad=2, Facebook=2, Android=25}
+{iPhone=37, Others=5, twittbot=2, Web=5, TweetDeck=3, iPad=2, Facebook=3, Android=22}
+{iPhone=30, Others=10, twittbot=1, Web=6, TweetDeck=3, iPad=2, Facebook=2, Android=25}
+{iPhone=37, Others=5, twittbot=2, Web=6, TweetDeck=3, iPad=2, Facebook=3, Android=22}
+{iPhone=30, Others=10, twittbot=1, Web=6, TweetDeck=3, iPad=2, Facebook=2, Android=26}
+{iPhone=37, Others=5, twittbot=2, Web=6, TweetDeck=3, iPad=2, Facebook=3, Android=23}
+{iPhone=31, Others=10, twittbot=1, Web=6, TweetDeck=3, iPad=2, Facebook=2, Android=26}
+{iPhone=38, Others=5, twittbot=2, Web=6, TweetDeck=3, iPad=2, Facebook=3, Android=23}
+{iPhone=38, Others=5, twittbot=2, Web=6, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=39, Others=5, twittbot=2, Web=6, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=32, Others=10, twittbot=1, Web=6, TweetDeck=3, iPad=2, Facebook=2, Android=26}
+{iPhone=32, Others=10, twittbot=1, Web=6, TweetDeck=4, iPad=2, Facebook=2, Android=26}
+{iPhone=33, Others=10, twittbot=1, Web=6, TweetDeck=4, iPad=2, Facebook=2, Android=26}
+{iPhone=33, Others=10, twittbot=1, Web=6, TweetDeck=4, iPad=2, Facebook=2, Android=27}
+{iPhone=33, Others=10, twittbot=2, Web=6, TweetDeck=4, iPad=2, Facebook=2, Android=27}
+{iPhone=34, Others=10, twittbot=2, Web=6, TweetDeck=4, iPad=2, Facebook=2, Android=27}
+{iPhone=39, Others=6, twittbot=2, Web=6, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=40, Others=6, twittbot=2, Web=6, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=40, Others=6, twittbot=2, Web=7, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=41, Others=6, twittbot=2, Web=7, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=42, Others=6, twittbot=2, Web=7, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=35, Others=10, twittbot=2, Web=6, TweetDeck=4, iPad=2, Facebook=2, Android=27}
+{iPhone=36, Others=10, twittbot=2, Web=6, TweetDeck=4, iPad=2, Facebook=2, Android=27}
+{iPhone=43, Others=6, twittbot=2, Web=7, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=37, Others=10, twittbot=2, Web=6, TweetDeck=4, iPad=2, Facebook=2, Android=27}
+{iPhone=44, Others=6, twittbot=2, Web=7, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=44, Others=6, twittbot=2, Web=8, TweetDeck=3, iPad=2, Facebook=3, Android=24}
+{iPhone=37, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=2, Facebook=2, Android=27}
+{iPhone=44, Others=6, twittbot=2, Web=8, TweetDeck=3, iPad=2, Facebook=3, Android=25}
+{iPhone=38, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=2, Facebook=2, Android=27}
+{iPhone=44, Others=6, twittbot=2, Web=8, TweetDeck=3, iPad=2, Facebook=3, Android=26}
+{iPhone=38, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=2, Facebook=2, Android=28}
+{iPhone=44, Others=6, twittbot=2, Web=8, TweetDeck=3, iPad=2, Facebook=3, Android=27}
+{iPhone=38, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=2, Facebook=2, Android=29}
+{iPhone=39, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=2, Facebook=2, Android=29}
+{iPhone=44, Others=6, twittbot=3, Web=8, TweetDeck=3, iPad=2, Facebook=3, Android=27}
+{iPhone=44, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=2, Facebook=3, Android=27}
+{iPhone=39, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=2, Facebook=2, Android=30}
+{iPhone=40, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=2, Facebook=2, Android=30}
+{iPhone=40, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=2, Facebook=2, Android=31}
+{iPhone=45, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=2, Facebook=3, Android=27}
+{iPhone=46, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=2, Facebook=3, Android=27}
+{iPhone=47, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=2, Facebook=3, Android=27}
+{iPhone=40, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=2, Facebook=2, Android=32}
+{iPhone=47, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=3, Facebook=3, Android=27}
+{iPhone=47, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=3, Facebook=3, Android=28}
+{iPhone=47, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=3, Facebook=3, Android=29}
+{iPhone=47, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=3, Facebook=3, Android=30}
+{iPhone=47, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=3, Facebook=3, Android=31}
+{iPhone=48, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=3, Facebook=3, Android=31}
+{iPhone=40, Others=10, twittbot=2, Web=6, TweetDeck=5, iPad=3, Facebook=2, Android=32}
+{iPhone=40, Others=10, twittbot=2, Web=7, TweetDeck=5, iPad=3, Facebook=2, Android=32}
+{iPhone=40, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=3, Facebook=2, Android=32}
+{iPhone=40, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=3, Facebook=2, Android=33}
+{iPhone=40, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=33}
+{iPhone=40, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=34}
+{iPhone=40, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=35}
+{iPhone=48, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=3, Facebook=3, Android=32}
+{iPhone=49, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=3, Facebook=3, Android=32}
+{iPhone=50, Others=6, twittbot=4, Web=8, TweetDeck=3, iPad=3, Facebook=3, Android=32}
+{iPhone=40, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=36}
+{iPhone=40, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=37}
+{iPhone=41, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=37}
+{iPhone=50, Others=6, twittbot=4, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=32}
+{iPhone=42, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=37}
+{iPhone=51, Others=6, twittbot=4, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=32}
+{iPhone=42, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=38}
+{iPhone=51, Others=6, twittbot=4, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=33}
+{iPhone=43, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=38}
+{iPhone=51, Others=6, twittbot=5, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=33}
+{iPhone=44, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=38}
+{iPhone=51, Others=6, twittbot=5, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=34}
+{iPhone=51, Others=6, twittbot=5, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=35}
+{iPhone=52, Others=6, twittbot=5, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=35}
+{iPhone=45, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=38}
+{iPhone=53, Others=6, twittbot=5, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=35}
+{iPhone=45, Others=10, twittbot=2, Web=8, TweetDeck=5, iPad=4, Facebook=2, Android=39}
+{iPhone=53, Others=6, twittbot=5, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=36}
+{iPhone=53, Others=6, twittbot=5, Web=9, TweetDeck=3, iPad=3, Facebook=3, Android=37}
+{iPhone=45, Others=10, twittbot=2, Web=9, TweetDeck=5, iPad=4, Facebook=2, Android=39}
+{iPhone=45, Others=11, twittbot=2, Web=9, TweetDeck=5, iPad=4, Facebook=2, Android=39}
+{iPhone=45, Others=11, twittbot=2, Web=9, TweetDeck=5, iPad=4, Facebook=3, Android=39}
+{iPhone=45, Others=11, twittbot=2, Web=10, TweetDeck=5, iPad=4, Facebook=3, Android=39}
+{iPhone=53, Others=6, twittbot=5, Web=10, TweetDeck=3, iPad=3, Facebook=3, Android=37}
+{iPhone=45, Others=11, twittbot=2, Web=10, TweetDeck=5, iPad=5, Facebook=3, Android=39}
+{iPhone=54, Others=6, twittbot=5, Web=10, TweetDeck=3, iPad=3, Facebook=3, Android=37}
+{iPhone=46, Others=11, twittbot=2, Web=10, TweetDeck=5, iPad=5, Facebook=3, Android=39}
+{iPhone=54, Others=6, twittbot=5, Web=10, TweetDeck=3, iPad=3, Facebook=3, Android=38}
+{iPhone=47, Others=11, twittbot=2, Web=10, TweetDeck=5, iPad=5, Facebook=3, Android=39}
+{iPhone=54, Others=6, twittbot=5, Web=11, TweetDeck=3, iPad=3, Facebook=3, Android=38}
+{iPhone=48, Others=11, twittbot=2, Web=10, TweetDeck=5, iPad=5, Facebook=3, Android=39}
+{iPhone=54, Others=6, twittbot=5, Web=11, TweetDeck=3, iPad=3, Facebook=3, Android=39}
+{iPhone=48, Others=11, twittbot=2, Web=10, TweetDeck=5, iPad=5, Facebook=3, Android=40}
+{iPhone=55, Others=6, twittbot=5, Web=11, TweetDeck=3, iPad=3, Facebook=3, Android=39}
+{iPhone=49, Others=11, twittbot=2, Web=10, TweetDeck=5, iPad=5, Facebook=3, Android=40}
+{iPhone=55, Others=6, twittbot=5, Web=11, TweetDeck=3, iPad=3, Facebook=3, Android=40}
+{iPhone=49, Others=11, twittbot=2, Web=10, TweetDeck=5, iPad=5, Facebook=3, Android=41}
+{iPhone=56, Others=6, twittbot=5, Web=11, TweetDeck=3, iPad=3, Facebook=3, Android=40}
+{iPhone=49, Others=11, twittbot=2, Web=11, TweetDeck=5, iPad=5, Facebook=3, Android=41}
+{iPhone=57, Others=6, twittbot=5, Web=11, TweetDeck=3, iPad=3, Facebook=3, Android=40}
+{iPhone=49, Others=11, twittbot=2, Web=11, TweetDeck=5, iPad=5, Facebook=3, Android=42}
+{iPhone=57, Others=6, twittbot=5, Web=12, TweetDeck=3, iPad=3, Facebook=3, Android=40}
+{iPhone=49, Others=11, twittbot=2, Web=12, TweetDeck=5, iPad=5, Facebook=3, Android=42}
+{iPhone=58, Others=6, twittbot=5, Web=12, TweetDeck=3, iPad=3, Facebook=3, Android=40}
+{iPhone=49, Others=11, twittbot=2, Web=13, TweetDeck=5, iPad=5, Facebook=3, Android=42}
+{iPhone=58, Others=6, twittbot=5, Web=12, TweetDeck=3, iPad=3, Facebook=3, Android=41}
+{iPhone=49, Others=11, twittbot=2, Web=13, TweetDeck=5, iPad=5, Facebook=3, Android=43}
+{iPhone=58, Others=6, twittbot=5, Web=12, TweetDeck=3, iPad=3, Facebook=3, Android=42}
+{iPhone=49, Others=11, twittbot=2, Web=13, TweetDeck=5, iPad=5, Facebook=3, Android=44}
+{iPhone=59, Others=6, twittbot=5, Web=12, TweetDeck=3, iPad=3, Facebook=3, Android=42}
+{iPhone=49, Others=11, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=3, Android=44}
+{iPhone=59, Others=6, twittbot=5, Web=12, TweetDeck=3, iPad=3, Facebook=3, Android=43}
+{iPhone=49, Others=11, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=3, Android=45}
+{iPhone=59, Others=6, twittbot=5, Web=12, TweetDeck=3, iPad=3, Facebook=3, Android=44}
+{iPhone=49, Others=12, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=3, Android=45}
+{iPhone=59, Others=6, twittbot=5, Web=12, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=44}
+{iPhone=49, Others=12, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=3, Android=46}
+{iPhone=59, Others=6, twittbot=5, Web=12, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=45}
+{iPhone=49, Others=12, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=3, Android=47}
+{iPhone=59, Others=6, twittbot=5, Web=13, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=45}
+{iPhone=49, Others=12, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=3, Android=48}
+{iPhone=59, Others=6, twittbot=5, Web=13, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=46}
+{iPhone=50, Others=12, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=3, Android=48}
+{iPhone=59, Others=6, twittbot=5, Web=13, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=47}
+{iPhone=50, Others=12, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=3, Android=49}
+{iPhone=60, Others=6, twittbot=5, Web=13, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=47}
+{iPhone=50, Others=12, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=4, Android=49}
+{iPhone=60, Others=6, twittbot=5, Web=14, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=47}
+{iPhone=50, Others=12, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=60, Others=6, twittbot=5, Web=14, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=48}
+{iPhone=51, Others=12, twittbot=2, Web=14, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=61, Others=6, twittbot=5, Web=14, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=48}
+{iPhone=51, Others=12, twittbot=2, Web=15, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=61, Others=6, twittbot=5, Web=15, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=48}
+{iPhone=61, Others=6, twittbot=5, Web=15, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=49}
+{iPhone=52, Others=12, twittbot=2, Web=15, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=62, Others=6, twittbot=5, Web=15, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=49}
+{iPhone=52, Others=13, twittbot=2, Web=15, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=52, Others=14, twittbot=2, Web=15, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=62, Others=7, twittbot=5, Web=15, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=49}
+{iPhone=53, Others=14, twittbot=2, Web=15, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=63, Others=7, twittbot=5, Web=15, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=49}
+{iPhone=53, Others=14, twittbot=2, Web=16, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=63, Others=7, twittbot=5, Web=15, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=50}
+{iPhone=53, Others=14, twittbot=2, Web=17, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=64, Others=7, twittbot=5, Web=15, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=50}
+{iPhone=53, Others=15, twittbot=2, Web=17, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=54, Others=15, twittbot=2, Web=17, TweetDeck=5, iPad=5, Facebook=4, Android=50}
+{iPhone=64, Others=7, twittbot=5, Web=15, TweetDeck=3, iPad=3, Windows=1, Facebook=3, Android=51}
+{iPhone=64, Others=7, twittbot=5, Web=15, TweetDeck=4, iPad=3, Windows=1, Facebook=3, Android=51}
+{iPhone=54, Others=15, twittbot=2, Web=17, TweetDeck=6, iPad=5, Facebook=4, Android=50}
+{iPhone=64, Others=7, twittbot=5, Web=15, TweetDeck=5, iPad=3, Windows=1, Facebook=3, Android=51}
+{iPhone=64, Others=7, twittbot=5, Web=15, TweetDeck=6, iPad=3, Windows=1, Facebook=3, Android=51}
+{iPhone=64, Others=7, twittbot=5, Web=15, TweetDeck=6, iPad=3, Windows=1, Facebook=3, Android=52}
+{iPhone=65, Others=7, twittbot=5, Web=15, TweetDeck=6, iPad=3, Windows=1, Facebook=3, Android=52}
+{iPhone=65, Others=7, twittbot=5, Web=15, TweetDeck=7, iPad=3, Windows=1, Facebook=3, Android=52}
+{iPhone=54, Others=15, twittbot=2, Web=17, TweetDeck=6, iPad=5, Facebook=4, Android=51}
+{iPhone=54, Others=15, twittbot=2, Web=17, TweetDeck=6, iPad=5, Facebook=4, Android=52}
+{iPhone=54, Others=15, twittbot=2, Web=17, TweetDeck=7, iPad=5, Facebook=4, Android=52}
+{iPhone=55, Others=15, twittbot=2, Web=17, TweetDeck=7, iPad=5, Facebook=4, Android=52}
+{iPhone=55, Others=15, twittbot=2, Web=17, TweetDeck=8, iPad=5, Facebook=4, Android=52}
+{iPhone=65, Others=7, twittbot=5, Web=15, TweetDeck=8, iPad=3, Windows=1, Facebook=3, Android=52}
+{iPhone=65, Others=7, twittbot=5, Web=15, TweetDeck=9, iPad=3, Windows=1, Facebook=3, Android=52}
+{iPhone=65, Others=7, twittbot=5, Web=15, TweetDeck=10, iPad=3, Windows=1, Facebook=3, Android=52}
+{iPhone=66, Others=7, twittbot=5, Web=15, TweetDeck=10, iPad=3, Windows=1, Facebook=3, Android=52}
+{iPhone=55, Others=15, twittbot=2, Web=17, TweetDeck=8, iPad=5, Facebook=4, Android=53}
+{iPhone=55, Others=15, twittbot=2, Web=17, TweetDeck=9, iPad=5, Facebook=4, Android=53}
+{iPhone=55, Others=15, twittbot=2, Web=17, TweetDeck=10, iPad=5, Facebook=4, Android=53}
+{iPhone=66, Others=7, twittbot=5, Web=15, TweetDeck=11, iPad=3, Windows=1, Facebook=3, Android=52}
+{iPhone=67, Others=7, twittbot=5, Web=15, TweetDeck=11, iPad=3, Windows=1, Facebook=3, Android=52}
+{iPhone=67, Others=7, twittbot=5, Web=15, TweetDeck=11, iPad=3, Windows=1, Facebook=3, Android=53}
+{iPhone=67, Others=7, twittbot=5, Web=15, TweetDeck=12, iPad=3, Windows=1, Facebook=3, Android=53}
+{iPhone=67, Others=7, twittbot=5, Web=15, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=53}
+{iPhone=55, Others=15, twittbot=2, Web=17, TweetDeck=11, iPad=5, Facebook=4, Android=53}
+{iPhone=68, Others=7, twittbot=5, Web=15, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=53}
+{iPhone=55, Others=15, twittbot=2, Web=17, TweetDeck=12, iPad=5, Facebook=4, Android=53}
+{iPhone=56, Others=15, twittbot=2, Web=17, TweetDeck=12, iPad=5, Facebook=4, Android=53}
+{iPhone=56, Others=15, twittbot=2, Web=17, TweetDeck=13, iPad=5, Facebook=4, Android=53}
+{iPhone=56, Others=15, twittbot=2, Web=17, TweetDeck=13, iPad=5, Facebook=4, Android=54}
+{iPhone=56, Others=15, twittbot=2, Web=17, TweetDeck=14, iPad=5, Facebook=4, Android=54}
+{iPhone=56, Others=15, twittbot=2, Web=17, TweetDeck=15, iPad=5, Facebook=4, Android=54}
+{iPhone=57, Others=15, twittbot=2, Web=17, TweetDeck=15, iPad=5, Facebook=4, Android=54}
+{iPhone=57, Others=15, twittbot=2, Web=17, TweetDeck=16, iPad=5, Facebook=4, Android=54}
+{iPhone=57, Others=15, twittbot=2, Web=17, TweetDeck=17, iPad=5, Facebook=4, Android=54}
+{iPhone=57, Others=15, twittbot=2, Web=18, TweetDeck=17, iPad=5, Facebook=4, Android=54}
+{iPhone=57, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=5, Facebook=4, Android=54}
+{iPhone=69, Others=7, twittbot=5, Web=15, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=53}
+{iPhone=70, Others=7, twittbot=5, Web=15, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=53}
+{iPhone=71, Others=7, twittbot=5, Web=15, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=53}
+{iPhone=71, Others=7, twittbot=5, Web=15, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=54}
+{iPhone=71, Others=7, twittbot=5, Web=15, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=55}
+{iPhone=57, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=5, Facebook=4, Android=55}
+{iPhone=71, Others=7, twittbot=5, Web=16, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=55}
+{iPhone=71, Others=7, twittbot=5, Web=16, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=56}
+{iPhone=58, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=5, Facebook=4, Android=55}
+{iPhone=59, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=5, Facebook=4, Android=55}
+{iPhone=59, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=5, Facebook=4, Android=56}
+{iPhone=59, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=5, Facebook=4, Android=57}
+{iPhone=59, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=5, Facebook=4, Android=58}
+{iPhone=71, Others=8, twittbot=5, Web=16, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=56}
+{iPhone=72, Others=8, twittbot=5, Web=16, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=56}
+{iPhone=73, Others=8, twittbot=5, Web=16, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=56}
+{iPhone=74, Others=8, twittbot=5, Web=16, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=56}
+{iPhone=75, Others=8, twittbot=5, Web=16, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=56}
+{iPhone=76, Others=8, twittbot=5, Web=16, TweetDeck=13, iPad=3, Windows=1, Facebook=3, Android=56}
+{iPhone=76, Others=8, twittbot=5, Web=16, TweetDeck=13, iPad=4, Windows=1, Facebook=3, Android=56}
+{iPhone=76, Others=8, twittbot=5, Web=16, TweetDeck=13, iPad=4, Windows=1, Facebook=3, Android=57}
+{iPhone=60, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=5, Facebook=4, Android=58}
+{iPhone=60, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=5, Facebook=4, Android=59}
+{iPhone=60, Others=15, twittbot=2, Web=18, TweetDeck=18, iPad=6, Facebook=4, Android=59}
+{iPhone=60, Others=15, twittbot=2, Web=18, TweetDeck=19, iPad=6, Facebook=4, Android=59}
+{iPhone=76, Others=8, twittbot=5, Web=16, TweetDeck=14, iPad=4, Windows=1, Facebook=3, Android=57}
+{iPhone=77, Others=8, twittbot=5, Web=16, TweetDeck=14, iPad=4, Windows=1, Facebook=3, Android=57}
+{iPhone=78, Others=8, twittbot=5, Web=16, TweetDeck=14, iPad=4, Windows=1, Facebook=3, Android=57}
+{iPhone=60, Others=15, twittbot=2, Web=18, TweetDeck=19, iPad=6, Facebook=4, Android=60}
+{iPhone=60, Others=15, twittbot=2, Web=18, TweetDeck=19, iPad=6, Facebook=4, Android=61}
+{iPhone=60, Others=15, twittbot=2, Web=18, TweetDeck=19, iPad=6, Facebook=5, Android=61}
+{iPhone=78, Others=9, twittbot=5, Web=16, TweetDeck=14, iPad=4, Windows=1, Facebook=3, Android=57}
+{iPhone=78, Others=9, twittbot=5, Web=16, TweetDeck=14, iPad=4, Windows=2, Facebook=3, Android=57}
+{iPhone=60, Others=15, twittbot=2, Web=18, TweetDeck=19, iPad=6, Facebook=5, Android=62}
+{iPhone=78, Others=9, twittbot=5, Web=16, TweetDeck=14, iPad=4, Windows=2, Facebook=3, Android=58}
+{iPhone=60, Others=15, twittbot=2, Web=18, TweetDeck=19, iPad=6, Facebook=5, Android=63}
+{iPhone=78, Others=10, twittbot=5, Web=16, TweetDeck=14, iPad=4, Windows=2, Facebook=3, Android=58}
+{iPhone=60, Others=16, twittbot=2, Web=18, TweetDeck=19, iPad=6, Facebook=5, Android=63}
+{iPhone=60, Others=16, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=63}
+{iPhone=78, Others=10, twittbot=5, Web=17, TweetDeck=14, iPad=4, Windows=2, Facebook=3, Android=58}
+{iPhone=79, Others=10, twittbot=5, Web=17, TweetDeck=14, iPad=4, Windows=2, Facebook=3, Android=58}
+{iPhone=79, Others=11, twittbot=5, Web=17, TweetDeck=14, iPad=4, Windows=2, Facebook=3, Android=58}
+{iPhone=61, Others=16, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=63}
+{iPhone=61, Others=16, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=64}
+{iPhone=62, Others=16, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=64}
+{iPhone=80, Others=11, twittbot=5, Web=17, TweetDeck=14, iPad=4, Windows=2, Facebook=3, Android=58}
+{iPhone=80, Others=11, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=58}
+{iPhone=63, Others=16, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=64}
+{iPhone=63, Others=17, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=64}
+{iPhone=64, Others=17, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=64}
+{iPhone=80, Others=11, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=59}
+{iPhone=64, Others=17, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=65}
+{iPhone=64, Others=17, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=66}
+{iPhone=80, Others=12, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=59}
+{iPhone=81, Others=12, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=59}
+{iPhone=81, Others=12, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=60}
+{iPhone=64, Others=18, twittbot=2, Web=19, TweetDeck=19, iPad=6, Facebook=5, Android=66}
+{iPhone=82, Others=12, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=60}
+{iPhone=64, Others=18, twittbot=2, Web=19, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=66}
+{iPhone=82, Others=12, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=61}
+{iPhone=64, Others=19, twittbot=2, Web=19, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=66}
+{iPhone=65, Others=19, twittbot=2, Web=19, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=66}
+{iPhone=65, Others=19, twittbot=2, Web=19, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=67}
+{iPhone=65, Others=19, twittbot=2, Web=20, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=67}
+{iPhone=82, Others=12, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=62}
+{iPhone=83, Others=12, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=62}
+{iPhone=84, Others=12, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=62}
+{iPhone=84, Others=13, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=62}
+{iPhone=65, Others=19, twittbot=2, Web=20, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=68}
+{iPhone=66, Others=19, twittbot=2, Web=20, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=68}
+{iPhone=85, Others=13, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=62}
+{iPhone=86, Others=13, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=62}
+{iPhone=67, Others=19, twittbot=2, Web=20, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=68}
+{iPhone=86, Others=13, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=63}
+{iPhone=67, Others=19, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=68}
+{iPhone=68, Others=19, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=68}
+{iPhone=86, Others=14, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=63}
+{iPhone=68, Others=20, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=68}
+{iPhone=68, Others=21, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=68}
+{iPhone=86, Others=14, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=64}
+{iPhone=87, Others=14, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=64}
+{iPhone=88, Others=14, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=64}
+{iPhone=89, Others=14, twittbot=5, Web=17, TweetDeck=15, iPad=4, Windows=2, Facebook=3, Android=64}
+{iPhone=68, Others=21, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=69}
+{iPhone=69, Others=21, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=69}
+{iPhone=69, Others=21, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=70}
+{iPhone=89, Others=14, twittbot=5, Web=17, TweetDeck=16, iPad=4, Windows=2, Facebook=3, Android=64}
+{iPhone=89, Others=14, twittbot=5, Web=17, TweetDeck=16, iPad=4, Windows=2, Facebook=3, Android=65}
+{iPhone=70, Others=21, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=70}
+{iPhone=89, Others=14, twittbot=5, Web=17, TweetDeck=16, iPad=4, Windows=2, Facebook=3, Android=66}
+{iPhone=70, Others=21, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=71}
+{iPhone=70, Others=21, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=72}
+{iPhone=89, Others=15, twittbot=5, Web=17, TweetDeck=16, iPad=4, Windows=2, Facebook=3, Android=66}
+{iPhone=71, Others=21, twittbot=2, Web=21, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=72}
+{iPhone=89, Others=15, twittbot=5, Web=17, TweetDeck=17, iPad=4, Windows=2, Facebook=3, Android=66}
+{iPhone=71, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=72}
+{iPhone=89, Others=15, twittbot=5, Web=17, TweetDeck=17, iPad=4, Windows=2, Facebook=3, Android=67}
+{iPhone=71, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=73}
+{iPhone=90, Others=15, twittbot=5, Web=17, TweetDeck=17, iPad=4, Windows=2, Facebook=3, Android=67}
+{iPhone=72, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=73}
+{iPhone=90, Others=15, twittbot=5, Web=18, TweetDeck=17, iPad=4, Windows=2, Facebook=3, Android=67}
+{iPhone=72, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=74}
+{iPhone=90, Others=16, twittbot=5, Web=18, TweetDeck=17, iPad=4, Windows=2, Facebook=3, Android=67}
+{iPhone=73, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=74}
+{iPhone=90, Others=16, twittbot=5, Web=18, TweetDeck=17, iPad=4, Windows=2, Facebook=3, Android=68}
+{iPhone=90, Others=16, twittbot=5, Web=18, TweetDeck=17, iPad=4, Windows=2, Facebook=3, Android=69}
+{iPhone=74, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=74}
+{iPhone=90, Others=16, twittbot=5, Web=19, TweetDeck=17, iPad=4, Windows=2, Facebook=3, Android=69}
+{iPhone=74, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=75}
+{iPhone=75, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=75}
+{iPhone=90, Others=16, twittbot=5, Web=19, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=69}
+{iPhone=76, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=75}
+{iPhone=90, Others=16, twittbot=5, Web=20, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=69}
+{iPhone=90, Others=16, twittbot=5, Web=20, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=70}
+{iPhone=77, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=75}
+{iPhone=77, Others=21, twittbot=2, Web=22, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=76}
+{iPhone=90, Others=16, twittbot=5, Web=20, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=71}
+{iPhone=77, Others=21, twittbot=2, Web=23, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=76}
+{iPhone=91, Others=16, twittbot=5, Web=20, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=71}
+{iPhone=77, Others=21, twittbot=2, Web=24, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=76}
+{iPhone=92, Others=16, twittbot=5, Web=20, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=71}
+{iPhone=92, Others=16, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=71}
+{iPhone=93, Others=16, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=71}
+{iPhone=78, Others=21, twittbot=2, Web=24, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=76}
+{iPhone=78, Others=21, twittbot=2, Web=24, TweetDeck=19, iPad=6, Windows=1, Facebook=5, Android=77}
+{iPhone=94, Others=16, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=71}
+{iPhone=78, Others=21, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=94, Others=16, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=72}
+{iPhone=79, Others=21, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=94, Others=17, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=72}
+{iPhone=80, Others=21, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=95, Others=17, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=72}
+{iPhone=95, Others=18, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=72}
+{iPhone=80, Others=22, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=95, Others=18, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=73}
+{iPhone=80, Others=23, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=95, Others=18, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=74}
+{iPhone=81, Others=23, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=96, Others=18, twittbot=5, Web=21, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=74}
+{iPhone=81, Others=24, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=96, Others=18, twittbot=5, Web=22, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=74}
+{iPhone=82, Others=24, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=83, Others=24, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=96, Others=19, twittbot=5, Web=22, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=74}
+{iPhone=97, Others=19, twittbot=5, Web=22, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=74}
+{iPhone=84, Others=24, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=98, Others=19, twittbot=5, Web=22, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=74}
+{iPhone=84, Others=25, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=5, Android=77}
+{iPhone=99, Others=19, twittbot=5, Web=22, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=74}
+{iPhone=84, Others=25, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=77}
+{iPhone=84, Others=25, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=78}
+{iPhone=99, Others=19, twittbot=5, Web=22, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=75}
+{iPhone=84, Others=25, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=79}
+{iPhone=99, Others=19, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=2, Facebook=3, Android=75}
+{iPhone=85, Others=25, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=79}
+{iPhone=86, Others=25, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=79}
+{iPhone=99, Others=19, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=75}
+{iPhone=86, Others=26, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=79}
+{iPhone=99, Others=19, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=76}
+{iPhone=99, Others=19, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=77}
+{iPhone=99, Others=19, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=78}
+{iPhone=86, Others=26, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=80}
+{iPhone=99, Others=20, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=78}
+{iPhone=86, Others=27, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=80}
+{iPhone=99, Others=20, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=79}
+{iPhone=87, Others=27, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=80}
+{iPhone=88, Others=27, twittbot=2, Web=24, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=80}
+{iPhone=99, Others=20, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=80}
+{iPhone=99, Others=20, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=81}
+{iPhone=88, Others=27, twittbot=2, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=80}
+{iPhone=99, Others=20, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=82}
+{iPhone=89, Others=27, twittbot=2, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=80}
+{iPhone=100, Others=20, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=82}
+{iPhone=90, Others=27, twittbot=2, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=80}
+{iPhone=101, Others=20, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=82}
+{iPhone=90, Others=28, twittbot=2, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=80}
+{iPhone=90, Others=28, twittbot=2, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=81}
+{iPhone=102, Others=20, twittbot=5, Web=23, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=82}
+{iPhone=90, Others=28, twittbot=3, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=81}
+{iPhone=90, Others=28, twittbot=3, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=82}
+{iPhone=91, Others=28, twittbot=3, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=82}
+{iPhone=91, Others=29, twittbot=3, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=82}
+{iPhone=91, Others=30, twittbot=3, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=82}
+{iPhone=92, Others=30, twittbot=3, Web=25, TweetDeck=19, iPad=7, Windows=1, Facebook=6, Android=82}
+{iPhone=92, Others=30, twittbot=3, Web=25, TweetDeck=19, iPad=8, Windows=1, Facebook=6, Android=82}
+{iPhone=102, Others=20, twittbot=5, Web=24, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=82}
+{iPhone=102, Others=20, twittbot=5, Web=24, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=83}
+{iPhone=103, Others=20, twittbot=5, Web=24, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=83}
+{iPhone=104, Others=20, twittbot=5, Web=24, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=83}
+{iPhone=104, Others=20, twittbot=5, Web=24, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=84}
+{iPhone=104, Others=20, twittbot=5, Web=24, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=85}
+{iPhone=104, Others=20, twittbot=5, Web=25, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=85}
+{iPhone=93, Others=30, twittbot=3, Web=25, TweetDeck=19, iPad=8, Windows=1, Facebook=6, Android=82}
+{iPhone=104, Others=20, twittbot=5, Web=26, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=85}
+{iPhone=94, Others=30, twittbot=3, Web=25, TweetDeck=19, iPad=8, Windows=1, Facebook=6, Android=82}
+{iPhone=105, Others=20, twittbot=5, Web=26, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=85}
+{iPhone=94, Others=30, twittbot=3, Web=25, TweetDeck=19, iPad=8, Windows=1, Facebook=6, Android=83}
+{iPhone=106, Others=20, twittbot=5, Web=26, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=85}
+{iPhone=94, Others=30, twittbot=3, Web=25, TweetDeck=19, iPad=8, Windows=1, Facebook=6, Android=84}
+{iPhone=106, Others=20, twittbot=5, Web=27, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=85}
+{iPhone=95, Others=30, twittbot=3, Web=25, TweetDeck=19, iPad=8, Windows=1, Facebook=6, Android=84}
+{iPhone=106, Others=20, twittbot=5, Web=27, TweetDeck=17, iPad=5, Windows=3, Facebook=3, Android=86}
+{iPhone=106, Others=20, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=3, Facebook=3, Android=86}
+{iPhone=95, Others=30, twittbot=3, Web=25, TweetDeck=19, iPad=8, Windows=1, Facebook=6, Android=85}
+{iPhone=95, Others=31, twittbot=3, Web=25, TweetDeck=19, iPad=8, Windows=1, Facebook=6, Android=85}
+{iPhone=107, Others=20, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=3, Facebook=3, Android=86}
+{iPhone=108, Others=20, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=3, Facebook=3, Android=86}
+{iPhone=108, Others=20, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=3, Facebook=3, Android=87}
+{iPhone=108, Others=20, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=3, Facebook=3, Android=88}
+{iPhone=95, Others=31, twittbot=3, Web=26, TweetDeck=19, iPad=8, Windows=1, Facebook=6, Android=85}
+{iPhone=95, Others=31, twittbot=3, Web=26, TweetDeck=20, iPad=8, Windows=1, Facebook=6, Android=85}
+{iPhone=95, Others=31, twittbot=3, Web=27, TweetDeck=20, iPad=8, Windows=1, Facebook=6, Android=85}
+{iPhone=95, Others=31, twittbot=3, Web=27, TweetDeck=20, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=96, Others=31, twittbot=3, Web=27, TweetDeck=20, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=108, Others=20, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=3, Facebook=3, Android=89}
+{iPhone=97, Others=31, twittbot=3, Web=27, TweetDeck=20, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=108, Others=21, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=3, Facebook=3, Android=89}
+{iPhone=108, Others=21, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=3, Facebook=3, Android=90}
+{iPhone=97, Others=31, twittbot=3, Web=27, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=109, Others=21, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=3, Facebook=3, Android=90}
+{iPhone=98, Others=31, twittbot=3, Web=27, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=99, Others=31, twittbot=3, Web=27, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=109, Others=21, twittbot=5, Web=27, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=99, Others=32, twittbot=3, Web=27, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=109, Others=21, twittbot=5, Web=28, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=99, Others=32, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=109, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=110, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=99, Others=33, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=111, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=100, Others=33, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=85}
+{iPhone=112, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=100, Others=33, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=86}
+{iPhone=113, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=101, Others=33, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=86}
+{iPhone=101, Others=34, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=86}
+{iPhone=114, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=115, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=101, Others=35, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=86}
+{iPhone=116, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=90}
+{iPhone=102, Others=35, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=86}
+{iPhone=116, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=91}
+{iPhone=102, Others=35, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=87}
+{iPhone=116, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=92}
+{iPhone=102, Others=35, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=88}
+{iPhone=116, Others=21, twittbot=5, Web=29, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=93}
+{iPhone=103, Others=35, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=88}
+{iPhone=116, Others=21, twittbot=5, Web=30, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=93}
+{iPhone=103, Others=35, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=89}
+{iPhone=116, Others=22, twittbot=5, Web=30, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=93}
+{iPhone=104, Others=35, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=89}
+{iPhone=116, Others=23, twittbot=5, Web=30, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=93}
+{iPhone=105, Others=35, twittbot=3, Web=28, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=89}
+{iPhone=105, Others=35, twittbot=3, Web=29, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=89}
+{iPhone=116, Others=23, twittbot=5, Web=30, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=94}
+{iPhone=106, Others=35, twittbot=3, Web=29, TweetDeck=21, iPad=8, Windows=1, Facebook=7, Android=89}
+{iPhone=117, Others=23, twittbot=5, Web=30, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=94}
+{iPhone=118, Others=23, twittbot=5, Web=30, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=94}
+{iPhone=106, Others=35, twittbot=3, Web=29, TweetDeck=21, iPad=9, Windows=1, Facebook=7, Android=89}
+{iPhone=107, Others=35, twittbot=3, Web=29, TweetDeck=21, iPad=9, Windows=1, Facebook=7, Android=89}
+{iPhone=118, Others=24, twittbot=5, Web=30, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=94}
+{iPhone=107, Others=35, twittbot=3, Web=29, TweetDeck=21, iPad=9, Windows=1, Facebook=7, Android=90}
+{iPhone=119, Others=24, twittbot=5, Web=30, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=94}
+{iPhone=108, Others=35, twittbot=3, Web=29, TweetDeck=21, iPad=9, Windows=1, Facebook=7, Android=90}
+{iPhone=119, Others=24, twittbot=5, Web=30, TweetDeck=17, iPad=6, Windows=4, Facebook=3, Android=95}
+{iPhone=119, Others=24, twittbot=5, Web=30, TweetDeck=17, iPad=7, Windows=4, Facebook=3, Android=95}
+{iPhone=108, Others=35, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=90}
+{iPhone=109, Others=35, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=90}
+{iPhone=120, Others=24, twittbot=5, Web=30, TweetDeck=17, iPad=7, Windows=4, Facebook=3, Android=95}
+{iPhone=121, Others=24, twittbot=5, Web=30, TweetDeck=17, iPad=7, Windows=4, Facebook=3, Android=95}
+{iPhone=121, Others=24, twittbot=5, Web=30, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=95}
+{iPhone=109, Others=36, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=90}
+{iPhone=121, Others=24, twittbot=5, Web=31, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=95}
+{iPhone=121, Others=24, twittbot=5, Web=31, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=96}
+{iPhone=110, Others=36, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=90}
+{iPhone=110, Others=37, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=90}
+{iPhone=111, Others=37, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=90}
+{iPhone=122, Others=24, twittbot=5, Web=31, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=96}
+{iPhone=111, Others=37, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=91}
+{iPhone=112, Others=37, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=91}
+{iPhone=123, Others=24, twittbot=5, Web=31, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=96}
+{iPhone=123, Others=24, twittbot=5, Web=31, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=97}
+{iPhone=123, Others=24, twittbot=5, Web=32, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=97}
+{iPhone=112, Others=37, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=92}
+{iPhone=112, Others=37, twittbot=3, Web=29, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=93}
+{iPhone=112, Others=37, twittbot=3, Web=30, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=93}
+{iPhone=112, Others=37, twittbot=3, Web=30, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=94}
+{iPhone=113, Others=37, twittbot=3, Web=30, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=94}
+{iPhone=113, Others=37, twittbot=3, Web=31, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=94}
+{iPhone=113, Others=38, twittbot=3, Web=31, TweetDeck=21, iPad=10, Windows=1, Facebook=7, Android=94}
+{iPhone=113, Others=38, twittbot=3, Web=31, TweetDeck=21, iPad=10, Windows=1, Facebook=8, Android=94}
+{iPhone=113, Others=38, twittbot=3, Web=31, TweetDeck=21, iPad=10, Windows=1, Facebook=8, Android=95}
+{iPhone=113, Others=38, twittbot=3, Web=31, TweetDeck=21, iPad=10, Windows=1, Facebook=8, Android=96}
+{iPhone=124, Others=24, twittbot=5, Web=32, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=97}
+{iPhone=124, Others=24, twittbot=5, Web=33, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=97}
+{iPhone=124, Others=24, twittbot=5, Web=33, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=98}
+{iPhone=124, Others=25, twittbot=5, Web=33, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=98}
+{iPhone=124, Others=26, twittbot=5, Web=33, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=98}
+{iPhone=125, Others=26, twittbot=5, Web=33, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=98}
+{iPhone=126, Others=26, twittbot=5, Web=33, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=98}
+{iPhone=126, Others=26, twittbot=5, Web=34, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=98}
+{iPhone=127, Others=26, twittbot=5, Web=34, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=98}
+{iPhone=127, Others=26, twittbot=5, Web=34, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=99}
+{iPhone=127, Others=26, twittbot=5, Web=34, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=100}
+{iPhone=128, Others=26, twittbot=5, Web=34, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=100}
+{iPhone=128, Others=26, twittbot=5, Web=34, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=101}
+{iPhone=128, Others=27, twittbot=5, Web=34, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=101}
+{iPhone=128, Others=27, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=101}
+{iPhone=128, Others=27, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=102}
+{iPhone=113, Others=38, twittbot=3, Web=31, TweetDeck=21, iPad=11, Windows=1, Facebook=8, Android=96}
+{iPhone=113, Others=39, twittbot=3, Web=31, TweetDeck=21, iPad=11, Windows=1, Facebook=8, Android=96}
+{iPhone=113, Others=39, twittbot=4, Web=31, TweetDeck=21, iPad=11, Windows=1, Facebook=8, Android=96}
+{iPhone=114, Others=39, twittbot=4, Web=31, TweetDeck=21, iPad=11, Windows=1, Facebook=8, Android=96}
+{iPhone=114, Others=39, twittbot=4, Web=31, TweetDeck=21, iPad=11, Windows=1, Facebook=8, Android=97}
+{iPhone=114, Others=39, twittbot=4, Web=32, TweetDeck=21, iPad=11, Windows=1, Facebook=8, Android=97}
+{iPhone=114, Others=39, twittbot=4, Web=32, TweetDeck=21, iPad=11, Windows=1, Facebook=8, Android=98}
+{iPhone=129, Others=27, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=102}
+{iPhone=130, Others=27, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=102}
+{iPhone=130, Others=28, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=102}
+{iPhone=131, Others=28, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=3, Android=102}
+{iPhone=114, Others=39, twittbot=4, Web=32, TweetDeck=21, iPad=12, Windows=1, Facebook=8, Android=98}
+{iPhone=115, Others=39, twittbot=4, Web=32, TweetDeck=21, iPad=12, Windows=1, Facebook=8, Android=98}
+{iPhone=115, Others=40, twittbot=4, Web=32, TweetDeck=21, iPad=12, Windows=1, Facebook=8, Android=98}
+{iPhone=116, Others=40, twittbot=4, Web=32, TweetDeck=21, iPad=12, Windows=1, Facebook=8, Android=98}
+{iPhone=131, Others=28, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=102}
+{iPhone=131, Others=28, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=103}
+{iPhone=132, Others=28, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=103}
+{iPhone=116, Others=40, twittbot=4, Web=32, TweetDeck=21, iPad=12, Windows=1, Facebook=8, Android=99}
+{iPhone=116, Others=40, twittbot=4, Web=33, TweetDeck=21, iPad=12, Windows=1, Facebook=8, Android=99}
+{iPhone=117, Others=40, twittbot=4, Web=33, TweetDeck=21, iPad=12, Windows=1, Facebook=8, Android=99}
+{iPhone=132, Others=28, twittbot=5, Web=35, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=118, Others=40, twittbot=4, Web=33, TweetDeck=21, iPad=12, Windows=1, Facebook=8, Android=99}
+{iPhone=132, Others=28, twittbot=5, Web=36, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=118, Others=40, twittbot=4, Web=33, TweetDeck=21, iPad=12, Windows=1, Facebook=8, Android=100}
+{iPhone=118, Others=40, twittbot=4, Web=33, TweetDeck=21, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=133, Others=28, twittbot=5, Web=36, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=118, Others=40, twittbot=4, Web=33, TweetDeck=22, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=134, Others=28, twittbot=5, Web=36, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=118, Others=40, twittbot=4, Web=33, TweetDeck=23, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=118, Others=40, twittbot=4, Web=33, TweetDeck=24, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=134, Others=28, twittbot=6, Web=36, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=119, Others=40, twittbot=4, Web=33, TweetDeck=24, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=135, Others=28, twittbot=6, Web=36, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=136, Others=28, twittbot=6, Web=36, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=120, Others=40, twittbot=4, Web=33, TweetDeck=24, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=120, Others=41, twittbot=4, Web=33, TweetDeck=24, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=136, Others=29, twittbot=6, Web=36, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=120, Others=42, twittbot=4, Web=33, TweetDeck=24, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=120, Others=42, twittbot=4, Web=34, TweetDeck=24, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=120, Others=42, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=100}
+{iPhone=137, Others=29, twittbot=6, Web=36, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=137, Others=29, twittbot=6, Web=37, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=137, Others=29, twittbot=6, Web=38, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=138, Others=29, twittbot=6, Web=38, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=138, Others=29, twittbot=6, Web=39, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=104}
+{iPhone=120, Others=42, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=101}
+{iPhone=120, Others=42, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=102}
+{iPhone=138, Others=29, twittbot=6, Web=39, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=105}
+{iPhone=139, Others=29, twittbot=6, Web=39, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=105}
+{iPhone=121, Others=42, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=102}
+{iPhone=140, Others=29, twittbot=6, Web=39, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=105}
+{iPhone=121, Others=42, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=103}
+{iPhone=140, Others=29, twittbot=6, Web=40, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=105}
+{iPhone=121, Others=42, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=104}
+{iPhone=140, Others=29, twittbot=6, Web=40, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=106}
+{iPhone=140, Others=29, twittbot=6, Web=40, TweetDeck=18, iPad=7, Windows=4, Facebook=4, Android=107}
+{iPhone=140, Others=29, twittbot=6, Web=40, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=107}
+{iPhone=141, Others=29, twittbot=6, Web=40, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=107}
+{iPhone=122, Others=42, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=104}
+{iPhone=122, Others=42, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=105}
+{iPhone=122, Others=43, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=105}
+{iPhone=122, Others=43, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=106}
+{iPhone=122, Others=43, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=107}
+{iPhone=122, Others=43, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=108}
+{iPhone=122, Others=44, twittbot=4, Web=34, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=108}
+{iPhone=122, Others=44, twittbot=4, Web=35, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=108}
+{iPhone=142, Others=29, twittbot=6, Web=40, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=107}
+{iPhone=142, Others=30, twittbot=6, Web=40, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=107}
+{iPhone=142, Others=31, twittbot=6, Web=40, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=107}
+{iPhone=142, Others=31, twittbot=6, Web=41, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=107}
+{iPhone=142, Others=31, twittbot=6, Web=41, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=108}
+{iPhone=123, Others=44, twittbot=4, Web=35, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=108}
+{iPhone=142, Others=32, twittbot=6, Web=41, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=108}
+{iPhone=124, Others=44, twittbot=4, Web=35, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=108}
+{iPhone=124, Others=44, twittbot=4, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=108}
+{iPhone=143, Others=32, twittbot=6, Web=41, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=108}
+{iPhone=124, Others=44, twittbot=4, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=109}
+{iPhone=143, Others=32, twittbot=6, Web=41, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=109}
+{iPhone=124, Others=44, twittbot=4, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=110}
+{iPhone=143, Others=32, twittbot=6, Web=41, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=110}
+{iPhone=125, Others=44, twittbot=4, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=110}
+{iPhone=143, Others=32, twittbot=6, Web=42, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=110}
+{iPhone=126, Others=44, twittbot=4, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=110}
+{iPhone=143, Others=32, twittbot=6, Web=43, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=110}
+{iPhone=126, Others=44, twittbot=4, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=111}
+{iPhone=143, Others=32, twittbot=6, Web=43, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=111}
+{iPhone=126, Others=44, twittbot=4, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=112}
+{iPhone=144, Others=32, twittbot=6, Web=43, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=111}
+{iPhone=126, Others=44, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=112}
+{iPhone=145, Others=32, twittbot=6, Web=43, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=111}
+{iPhone=127, Others=44, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=112}
+{iPhone=145, Others=33, twittbot=6, Web=43, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=111}
+{iPhone=128, Others=44, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=112}
+{iPhone=129, Others=44, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=112}
+{iPhone=129, Others=45, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=112}
+{iPhone=145, Others=33, twittbot=6, Web=43, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=112}
+{iPhone=129, Others=46, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=112}
+{iPhone=145, Others=33, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=5, Facebook=4, Android=112}
+{iPhone=145, Others=33, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=112}
+{iPhone=146, Others=33, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=112}
+{iPhone=129, Others=46, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=146, Others=33, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=113}
+{iPhone=129, Others=47, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=147, Others=33, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=113}
+{iPhone=129, Others=48, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=147, Others=33, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=114}
+{iPhone=129, Others=49, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=148, Others=33, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=114}
+{iPhone=130, Others=49, twittbot=5, Web=36, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=148, Others=34, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=114}
+{iPhone=130, Others=49, twittbot=5, Web=37, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=148, Others=34, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=115}
+{iPhone=130, Others=50, twittbot=5, Web=37, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=149, Others=34, twittbot=7, Web=43, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=115}
+{iPhone=130, Others=50, twittbot=6, Web=37, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=149, Others=34, twittbot=7, Web=44, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=115}
+{iPhone=149, Others=34, twittbot=7, Web=44, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=116}
+{iPhone=130, Others=50, twittbot=6, Web=38, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=131, Others=50, twittbot=6, Web=38, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=149, Others=34, twittbot=8, Web=44, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=116}
+{iPhone=131, Others=50, twittbot=6, Web=39, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=149, Others=35, twittbot=8, Web=44, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=116}
+{iPhone=131, Others=50, twittbot=7, Web=39, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=150, Others=35, twittbot=8, Web=44, TweetDeck=18, iPad=7, Windows=6, Facebook=4, Android=116}
+{iPhone=132, Others=50, twittbot=7, Web=39, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=150, Others=35, twittbot=8, Web=44, TweetDeck=18, iPad=8, Windows=6, Facebook=4, Android=116}
+{iPhone=133, Others=50, twittbot=7, Web=39, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=113}
+{iPhone=151, Others=35, twittbot=8, Web=44, TweetDeck=18, iPad=8, Windows=6, Facebook=4, Android=116}
+{iPhone=133, Others=50, twittbot=7, Web=39, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=114}
+{iPhone=152, Others=35, twittbot=8, Web=44, TweetDeck=18, iPad=8, Windows=6, Facebook=4, Android=116}
+{iPhone=134, Others=50, twittbot=7, Web=39, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=114}
+{iPhone=152, Others=35, twittbot=8, Web=44, TweetDeck=18, iPad=8, Windows=6, Facebook=4, Android=117}
+{iPhone=134, Others=50, twittbot=7, Web=40, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=114}
+{iPhone=153, Others=35, twittbot=8, Web=44, TweetDeck=18, iPad=8, Windows=6, Facebook=4, Android=117}
+{iPhone=134, Others=50, twittbot=7, Web=40, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=115}
+{iPhone=154, Others=35, twittbot=8, Web=44, TweetDeck=18, iPad=8, Windows=6, Facebook=4, Android=117}
+{iPhone=135, Others=50, twittbot=7, Web=40, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=115}
+{iPhone=154, Others=35, twittbot=8, Web=44, TweetDeck=19, iPad=8, Windows=6, Facebook=4, Android=117}
+{iPhone=135, Others=50, twittbot=8, Web=40, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=115}
+{iPhone=135, Others=50, twittbot=8, Web=41, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=115}
+{iPhone=154, Others=36, twittbot=8, Web=44, TweetDeck=19, iPad=8, Windows=6, Facebook=4, Android=117}
+{iPhone=135, Others=51, twittbot=8, Web=41, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=115}
+{iPhone=154, Others=36, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=6, Facebook=4, Android=117}
+{iPhone=154, Others=36, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=6, Facebook=4, Android=118}
+{iPhone=154, Others=37, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=6, Facebook=4, Android=118}
+{iPhone=136, Others=51, twittbot=8, Web=41, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=115}
+{iPhone=154, Others=37, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=6, Facebook=4, Android=119}
+{iPhone=136, Others=51, twittbot=8, Web=41, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=116}
+{iPhone=136, Others=51, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=116}
+{iPhone=136, Others=51, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=117}
+{iPhone=154, Others=38, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=6, Facebook=4, Android=119}
+{iPhone=154, Others=39, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=6, Facebook=4, Android=119}
+{iPhone=136, Others=51, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=118}
+{iPhone=137, Others=51, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=118}
+{iPhone=154, Others=39, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=6, Facebook=4, Android=120}
+{iPhone=138, Others=51, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=118}
+{iPhone=154, Others=40, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=6, Facebook=4, Android=120}
+{iPhone=139, Others=51, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=118}
+{iPhone=139, Others=52, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=118}
+{iPhone=154, Others=40, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=120}
+{iPhone=139, Others=52, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=119}
+{iPhone=154, Others=40, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=121}
+{iPhone=140, Others=52, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=119}
+{iPhone=154, Others=40, twittbot=8, Web=44, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=154, Others=40, twittbot=8, Web=45, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=154, Others=40, twittbot=9, Web=45, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=141, Others=52, twittbot=8, Web=42, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=119}
+{iPhone=155, Others=40, twittbot=9, Web=45, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=141, Others=52, twittbot=8, Web=43, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=119}
+{iPhone=156, Others=40, twittbot=9, Web=45, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=142, Others=52, twittbot=8, Web=43, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=119}
+{iPhone=143, Others=52, twittbot=8, Web=43, TweetDeck=25, iPad=12, Windows=1, Facebook=9, Android=119}
+{iPhone=156, Others=40, twittbot=9, Web=46, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=156, Others=40, twittbot=9, Web=47, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=143, Others=52, twittbot=8, Web=43, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=119}
+{iPhone=157, Others=40, twittbot=9, Web=47, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=157, Others=40, twittbot=9, Web=48, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=143, Others=53, twittbot=8, Web=43, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=119}
+{iPhone=158, Others=40, twittbot=9, Web=48, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=144, Others=53, twittbot=8, Web=43, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=119}
+{iPhone=144, Others=53, twittbot=8, Web=43, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=120}
+{iPhone=144, Others=54, twittbot=8, Web=43, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=120}
+{iPhone=159, Others=40, twittbot=9, Web=48, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=144, Others=55, twittbot=8, Web=43, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=120}
+{iPhone=159, Others=40, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=160, Others=40, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=144, Others=55, twittbot=8, Web=44, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=120}
+{iPhone=161, Others=40, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=162, Others=40, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=122}
+{iPhone=144, Others=55, twittbot=8, Web=45, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=120}
+{iPhone=162, Others=40, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=123}
+{iPhone=144, Others=55, twittbot=8, Web=45, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=121}
+{iPhone=144, Others=56, twittbot=8, Web=45, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=121}
+{iPhone=144, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=121}
+{iPhone=162, Others=40, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=124}
+{iPhone=145, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=121}
+{iPhone=163, Others=40, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=124}
+{iPhone=145, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=122}
+{iPhone=163, Others=40, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=125}
+{iPhone=164, Others=40, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=125}
+{iPhone=146, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=122}
+{iPhone=164, Others=41, twittbot=9, Web=49, TweetDeck=20, iPad=8, Windows=7, Facebook=4, Android=125}
+{iPhone=146, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=123}
+{iPhone=164, Others=41, twittbot=9, Web=49, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=125}
+{iPhone=146, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=124}
+{iPhone=165, Others=41, twittbot=9, Web=49, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=125}
+{iPhone=146, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=125}
+{iPhone=165, Others=41, twittbot=9, Web=49, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=146, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=126}
+{iPhone=166, Others=41, twittbot=9, Web=49, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=147, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=126}
+{iPhone=167, Others=41, twittbot=9, Web=49, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=147, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=127}
+{iPhone=167, Others=42, twittbot=9, Web=49, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=167, Others=42, twittbot=9, Web=50, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=148, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=127}
+{iPhone=148, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=128}
+{iPhone=167, Others=43, twittbot=9, Web=50, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=168, Others=43, twittbot=9, Web=50, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=149, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=128}
+{iPhone=150, Others=56, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=128}
+{iPhone=169, Others=43, twittbot=9, Web=50, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=150, Others=57, twittbot=8, Web=46, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=128}
+{iPhone=150, Others=57, twittbot=8, Web=47, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=128}
+{iPhone=170, Others=43, twittbot=9, Web=50, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=171, Others=43, twittbot=9, Web=50, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=171, Others=43, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=150, Others=57, twittbot=8, Web=47, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=129}
+{iPhone=150, Others=57, twittbot=8, Web=47, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=130}
+{iPhone=172, Others=43, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=126}
+{iPhone=151, Others=57, twittbot=8, Web=47, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=130}
+{iPhone=172, Others=43, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=127}
+{iPhone=152, Others=57, twittbot=8, Web=47, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=130}
+{iPhone=172, Others=43, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=128}
+{iPhone=152, Others=57, twittbot=8, Web=48, TweetDeck=25, iPad=13, Windows=1, Facebook=9, Android=130}
+{iPhone=173, Others=43, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=128}
+{iPhone=152, Others=57, twittbot=8, Web=48, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=153, Others=57, twittbot=8, Web=48, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=173, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=128}
+{iPhone=153, Others=57, twittbot=8, Web=49, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=173, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=129}
+{iPhone=154, Others=57, twittbot=8, Web=49, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=173, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=130}
+{iPhone=155, Others=57, twittbot=8, Web=49, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=174, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=130}
+{iPhone=174, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=131}
+{iPhone=174, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=132}
+{iPhone=155, Others=57, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=155, Others=58, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=156, Others=58, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=156, Others=59, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=157, Others=59, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=9, Android=130}
+{iPhone=157, Others=59, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=130}
+{iPhone=157, Others=59, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=131}
+{iPhone=175, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=132}
+{iPhone=176, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=132}
+{iPhone=177, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=7, Facebook=4, Android=132}
+{iPhone=177, Others=44, twittbot=9, Web=51, TweetDeck=21, iPad=8, Windows=8, Facebook=4, Android=132}
+{iPhone=177, Others=44, twittbot=9, Web=52, TweetDeck=21, iPad=8, Windows=8, Facebook=4, Android=132}
+{iPhone=177, Others=44, twittbot=9, Web=52, TweetDeck=21, iPad=8, Windows=8, Facebook=4, Android=133}
+{iPhone=177, Others=44, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=133}
+{iPhone=158, Others=59, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=131}
+{iPhone=159, Others=59, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=131}
+{iPhone=178, Others=44, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=133}
+{iPhone=159, Others=60, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=131}
+{iPhone=178, Others=45, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=133}
+{iPhone=160, Others=60, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=131}
+{iPhone=178, Others=45, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=134}
+{iPhone=179, Others=45, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=134}
+{iPhone=161, Others=60, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=131}
+{iPhone=179, Others=46, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=134}
+{iPhone=161, Others=60, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=132}
+{iPhone=162, Others=60, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=132}
+{iPhone=179, Others=46, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=135}
+{iPhone=162, Others=60, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=133}
+{iPhone=180, Others=46, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=135}
+{iPhone=180, Others=46, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=136}
+{iPhone=162, Others=60, twittbot=8, Web=50, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=134}
+{iPhone=180, Others=46, twittbot=9, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=137}
+{iPhone=180, Others=46, twittbot=10, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=137}
+{iPhone=162, Others=60, twittbot=8, Web=51, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=134}
+{iPhone=163, Others=60, twittbot=8, Web=51, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=134}
+{iPhone=180, Others=46, twittbot=10, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=138}
+{iPhone=163, Others=60, twittbot=8, Web=51, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=135}
+{iPhone=180, Others=47, twittbot=10, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=138}
+{iPhone=164, Others=60, twittbot=8, Web=51, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=135}
+{iPhone=180, Others=47, twittbot=10, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=139}
+{iPhone=165, Others=60, twittbot=8, Web=51, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=135}
+{iPhone=180, Others=48, twittbot=10, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=139}
+{iPhone=165, Others=60, twittbot=8, Web=51, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=136}
+{iPhone=180, Others=48, twittbot=10, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=140}
+{iPhone=165, Others=60, twittbot=8, Web=51, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=137}
+{iPhone=180, Others=48, twittbot=10, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=141}
+{iPhone=166, Others=60, twittbot=8, Web=51, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=137}
+{iPhone=181, Others=48, twittbot=10, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=141}
+{iPhone=166, Others=60, twittbot=8, Web=52, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=137}
+{iPhone=181, Others=48, twittbot=10, Web=52, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=142}
+{iPhone=167, Others=60, twittbot=8, Web=52, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=137}
+{iPhone=181, Others=48, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=142}
+{iPhone=182, Others=48, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=142}
+{iPhone=168, Others=60, twittbot=8, Web=52, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=137}
+{iPhone=183, Others=48, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=142}
+{iPhone=168, Others=60, twittbot=9, Web=52, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=137}
+{iPhone=183, Others=48, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=4, Android=143}
+{iPhone=168, Others=60, twittbot=9, Web=52, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=138}
+{iPhone=183, Others=48, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=143}
+{iPhone=184, Others=48, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=143}
+{iPhone=168, Others=60, twittbot=9, Web=53, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=138}
+{iPhone=168, Others=60, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=138}
+{iPhone=169, Others=60, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=138}
+{iPhone=169, Others=60, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=139}
+{iPhone=170, Others=60, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=139}
+{iPhone=184, Others=48, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=144}
+{iPhone=171, Others=60, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=10, Android=139}
+{iPhone=184, Others=49, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=144}
+{iPhone=171, Others=60, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=11, Android=139}
+{iPhone=184, Others=50, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=144}
+{iPhone=172, Others=60, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=11, Android=139}
+{iPhone=185, Others=50, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=144}
+{iPhone=185, Others=51, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=144}
+{iPhone=172, Others=61, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=11, Android=139}
+{iPhone=185, Others=51, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=145}
+{iPhone=172, Others=61, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=139}
+{iPhone=186, Others=51, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=145}
+{iPhone=172, Others=61, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=140}
+{iPhone=186, Others=51, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=146}
+{iPhone=172, Others=61, twittbot=9, Web=54, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=141}
+{iPhone=186, Others=51, twittbot=10, Web=53, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=147}
+{iPhone=172, Others=61, twittbot=9, Web=55, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=141}
+{iPhone=186, Others=51, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=147}
+{iPhone=172, Others=61, twittbot=9, Web=55, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=142}
+{iPhone=186, Others=51, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=148}
+{iPhone=173, Others=61, twittbot=9, Web=55, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=142}
+{iPhone=186, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=148}
+{iPhone=173, Others=61, twittbot=9, Web=55, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=143}
+{iPhone=186, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=149}
+{iPhone=173, Others=61, twittbot=9, Web=56, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=143}
+{iPhone=187, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=149}
+{iPhone=174, Others=61, twittbot=9, Web=56, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=143}
+{iPhone=187, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=150}
+{iPhone=188, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=150}
+{iPhone=174, Others=61, twittbot=9, Web=56, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=144}
+{iPhone=189, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=150}
+{iPhone=175, Others=61, twittbot=9, Web=56, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=144}
+{iPhone=190, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=150}
+{iPhone=190, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=151}
+{iPhone=175, Others=62, twittbot=9, Web=56, TweetDeck=25, iPad=13, Windows=2, Facebook=12, Android=144}
+{iPhone=191, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=151}
+{iPhone=175, Others=62, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=144}
+{iPhone=192, Others=52, twittbot=10, Web=54, TweetDeck=21, iPad=9, Windows=8, Facebook=5, Android=151}
+{iPhone=175, Others=62, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=145}
+{iPhone=175, Others=62, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=146}
+{iPhone=175, Others=62, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=147}
+{iPhone=176, Others=62, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=147}
+{iPhone=192, Others=52, twittbot=10, Web=54, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=151}
+{iPhone=176, Others=62, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=148}
+{iPhone=193, Others=52, twittbot=10, Web=54, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=151}
+{iPhone=177, Others=62, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=148}
+{iPhone=193, Others=52, twittbot=10, Web=54, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=152}
+{iPhone=177, Others=63, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=148}
+{iPhone=194, Others=52, twittbot=10, Web=54, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=152}
+{iPhone=177, Others=63, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=149}
+{iPhone=194, Others=52, twittbot=10, Web=54, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=153}
+{iPhone=177, Others=64, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=149}
+{iPhone=194, Others=53, twittbot=10, Web=54, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=153}
+{iPhone=194, Others=53, twittbot=10, Web=54, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=154}
+{iPhone=177, Others=64, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=150}
+{iPhone=195, Others=53, twittbot=10, Web=54, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=154}
+{iPhone=195, Others=54, twittbot=10, Web=54, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=154}
+{iPhone=177, Others=64, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=151}
+{iPhone=177, Others=64, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=152}
+{iPhone=195, Others=54, twittbot=10, Web=55, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=154}
+{iPhone=177, Others=64, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=153}
+{iPhone=177, Others=65, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=153}
+{iPhone=195, Others=55, twittbot=10, Web=55, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=154}
+{iPhone=195, Others=55, twittbot=10, Web=55, TweetDeck=22, iPad=9, Windows=8, Facebook=5, Android=155}
+{iPhone=177, Others=66, twittbot=9, Web=56, TweetDeck=26, iPad=13, Windows=2, Facebook=12, Android=153}
